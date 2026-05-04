@@ -2,4 +2,5 @@ pandas
 numpy
 yfinance
 ta
-oandapyV20
+MetaTrader5
+pytz
